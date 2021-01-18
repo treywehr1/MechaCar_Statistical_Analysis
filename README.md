@@ -9,7 +9,7 @@ A number of bootcamp students have found that their summary statistics differ fr
  
  - The slope of this linear model is not considered to be 0. This is indicated due to the variable's coefficients not equalling zero.
  
- - Since the model's r-sqaured value is calculated at .7149, it is safe to assume that the model will perform well.
+ - Since the model's r-sqaured value is calculated at .7149, it is safe to assume that the model will perform well at indicating future correlation between the listed variables and MPG.
  
  ![Imgur](https://imgur.com/KiAEmV3.png)
  
